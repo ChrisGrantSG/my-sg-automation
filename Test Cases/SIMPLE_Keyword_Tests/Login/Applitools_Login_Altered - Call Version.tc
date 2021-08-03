@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Applitools_Login_Altered - Call Version</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d3627ae-45ad-4f4a-bc28-03a34441bac4</testCaseGuid>
+   <variable>
+      <defaultValue>'https://sg-dev-web.securegive.com/'</defaultValue>
+      <description></description>
+      <id>4f70e01b-0c49-41cb-a965-63ef7bc24f7e</id>
+      <masked>false</masked>
+      <name>SecureGiveURLDEV</name>
+   </variable>
+   <variable>
+      <defaultValue>'frank.page+kelly@securegive.com'</defaultValue>
+      <description></description>
+      <id>bed303b1-7d10-4ad3-bfaa-01ce19324971</id>
+      <masked>false</masked>
+      <name>SignInNameUserDEV</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://sg-pre-web.securegive.com/'</defaultValue>
+      <description></description>
+      <id>81f410d6-17bf-4dac-a902-b96012bfa61f</id>
+      <masked>false</masked>
+      <name>SecureGiveURLPRE</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing+member1@securegive.com'</defaultValue>
+      <description></description>
+      <id>493361ad-670b-4125-8025-c5664b176f05</id>
+      <masked>false</masked>
+      <name>SignInNamePRE</name>
+   </variable>
+   <variable>
+      <defaultValue>'p4nzqf2WPVEdgGhZ2tawDQ=='</defaultValue>
+      <description></description>
+      <id>72862bef-557c-466e-bd3c-e3102264b683</id>
+      <masked>false</masked>
+      <name>SignInPasswordUser</name>
+   </variable>
+   <variable>
+      <defaultValue>'frank.page+jen@securegive.com'</defaultValue>
+      <description></description>
+      <id>49dce8db-f330-4670-ab10-d6eddd1789f2</id>
+      <masked>false</masked>
+      <name>SignInNameAdminDEV</name>
+   </variable>
+   <variable>
+      <defaultValue>'xawWuIhk6euXUAw9wmjbrg=='</defaultValue>
+      <description></description>
+      <id>ca6fb862-80e3-43f8-8eaf-c15e82e3c17d</id>
+      <masked>false</masked>
+      <name>SignInPasswordAdmin</name>
+   </variable>
+</TestCaseEntity>

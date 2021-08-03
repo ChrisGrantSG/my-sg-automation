@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>How to Give</name>
+   <tag></tag>
+   <comment>Story: User wants to select how to give
+Given that the user is giving and How would you like to give page present
+Choose the giving type
+User is taken the the proper Give To page</comment>
+   <testCaseGuid>f0f511eb-cc89-4035-a47c-512087fb57ec</testCaseGuid>
+   <variable>
+      <defaultValue>'Donation'</defaultValue>
+      <description></description>
+      <id>6604e797-b9f2-420b-889e-092ca95b99d4</id>
+      <masked>false</masked>
+      <name>GiftType</name>
+   </variable>
+</TestCaseEntity>

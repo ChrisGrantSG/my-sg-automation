@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thanks</name>
+   <tag></tag>
+   <comment>Verify the Thanks page</comment>
+   <testCaseGuid>8dc2ab53-d292-4d6d-af92-9747b563ad0e</testCaseGuid>
+</TestCaseEntity>

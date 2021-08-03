@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SplitFundCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1f5c72b-090c-44e0-ab63-c93ceb83fc0a</testCaseGuid>
+   <variable>
+      <defaultValue>'General Giving|Starr Pass Northside'</defaultValue>
+      <description></description>
+      <id>a1de67f7-1653-4615-b129-e92ed51fdc98</id>
+      <masked>false</masked>
+      <name>FundName</name>
+   </variable>
+   <variable>
+      <defaultValue>'AmountCurrency|AmountQuantity'</defaultValue>
+      <description></description>
+      <id>1c6c168c-bfca-4e52-873c-c321ce39f2c1</id>
+      <masked>false</masked>
+      <name>GiftInputType</name>
+   </variable>
+</TestCaseEntity>

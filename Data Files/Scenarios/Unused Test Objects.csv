@@ -1,0 +1,53 @@
+No.,Name
+1,Object Repository/Page_How To Give/p_How would you like to give
+2,Object Repository/Page_Give to/button_Next charge date_btn icon-only prepend
+3,Object Repository/Page_Give to/select_3rd  4th  5th  6th  7th  8th  9th  1_aca48a
+4,Object Repository/Page_Give to/path_1
+5,Object Repository/Page_Give to/select_1st  2nd  3rd  4th  5th  6th  7th  8_a06ec1
+6,Object Repository/Page_Give to/div_19
+7,Object Repository/Page_Give to/path
+8,Object Repository/Page_Give to/input_Fund Quantity
+9,Object Repository/Page_Give to/label_Recurring
+10,Object Repository/Page_Give to/button_000 total_fund0quantitybutton-add
+11,Object Repository/Page_Give to/app-date-picker_AugSepOctNovDec202020212022_623923
+12,Object Repository/Page_Give to/div_10000 Twice a Month on the 2nd and 16th_5d9cb4
+13,Object Repository/Page_Give to/svg
+14,Object Repository/Page_Give to/textarea_End Date_message
+15,Object Repository/Page_Give to/select_Weekly  Monthly  Twice a Month
+16,Object Repository/Page_Review_Confirm/div_   8431
+17,Object Repository/Page_Review_Confirm/h5_Total
+18,Object Repository/Page_Review_Confirm/button_Give
+19,Object Repository/Page_Review_Confirm/div_General Giving
+20,Object Repository/Page_Review_Confirm/div_Giving Summary
+21,Object Repository/Page_Review_Confirm/div_Exp 12  23
+22,Object Repository/Page_Review_Confirm/div_Total
+23,Object Repository/Page_Review_Confirm/h4_100
+24,Object Repository/Page_Review_Confirm/div_100
+25,Object Repository/OrganizationName
+26,Object Repository/Page_Organizations/svg
+27,Object Repository/Page_Campus/selector_Campus 1
+28,Object Repository/Page_Campus/title_Select an Option Below
+29,Object Repository/TestObjects/Page_Payment Method  Starr Pass Church/div_   5454Exp 12  23
+30,Object Repository/TestObjects/Page_Payment Method  Starr Pass Church/button_Next Review
+31,Object Repository/TestObjects/Test Objects 2/Page_Sign In/input_Forgot Password_email
+32,Object Repository/TestObjects/Test Objects 2/Page_Sign In/button_Sign In
+33,Object Repository/TestObjects/Test Objects 2/Page_Sign In/input_Forgot Password_password
+34,Object Repository/TestObjects/Test Objects 2/Page_Organizations/button_Go to Organization
+35,Object Repository/TestObjects/Test Objects 2/Page_How To Give  Starr Pass Church  Main Campus/span_Donation
+36,Object Repository/TestObjects/Test Objects 2/Page_Select an Option  Starr Pass Church/span_Main Campus
+37,Object Repository/TestObjects/Page_Sign In/input_Forgot Password_password (1)
+38,Object Repository/TestObjects/Page_Sign In/input_Forgot Password_email
+39,Object Repository/TestObjects/Page_Sign In/input_Forgot Password_email (1)
+40,Object Repository/TestObjects/Page_Sign In/button_Sign In
+41,Object Repository/TestObjects/Page_Sign In/input_Forgot Password_password
+42,Object Repository/TestObjects/Page_Organizations/btn_GoToOrganization_custom
+43,Object Repository/TestObjects/Page_Organizations/button_Go to Organization
+44,Object Repository/TestObjects/Page_Organizations/button_Go to Organization (1)
+45,Object Repository/TestObjects/Page_Web Test Object  Katalon Docs/div_Katalon Studio                         _9bae5d
+46,Object Repository/TestObjects/Page_Donate  Starr Pass Church  Main Campus/input_13088 (7)_fund0amount
+47,Object Repository/TestObjects/Page_Donate  Starr Pass Church  Main Campus/button_Next Payment Details
+48,Object Repository/TestObjects/Page_How To Give  Starr Pass Church  Main Campus/button_Donation
+49,Object Repository/TestObjects/Page_Review  Starr Pass Church  Main Campus/div_Give 100
+50,Object Repository/TestObjects/Page_Select an Option  Starr Pass Church/span_3800 W Starr Pass Blvd
+51,Object Repository/TestObjects/Page_Select an Option  Starr Pass Church/span_3800 W Starr Pass Blvd (1)
+52,Object Repository/Go To My Organizations

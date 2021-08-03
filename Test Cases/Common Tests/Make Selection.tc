@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make Selection</name>
+   <tag></tag>
+   <comment>Story: Make Campus Selection
+Given the Make Campus Selection page is present
+Select Campus</comment>
+   <testCaseGuid>ef0a283b-00d5-4ea2-9943-1fcc95ee0b13</testCaseGuid>
+   <variable>
+      <defaultValue>'Main Campus'</defaultValue>
+      <description></description>
+      <id>f77a0c0b-3cbd-4242-96ef-aa41823bb42c</id>
+      <masked>false</masked>
+      <name>CampusName</name>
+   </variable>
+</TestCaseEntity>
